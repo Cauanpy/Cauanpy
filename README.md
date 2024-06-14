@@ -1,6 +1,6 @@
 
 Estatísticas
-!(Cauanpy) GitHub stats
+!(cauanpy) GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanpy)](https://github.com/cauanpy/github-readme-stats)
 
