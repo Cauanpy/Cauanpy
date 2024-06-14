@@ -1,8 +1,8 @@
 
 Estatísticas
-!(seu nome) GitHub stats
+!(Cauanpy) GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_no_github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauanpy)](https://github.com/cauanpy/github-readme-stats)
 
 Skills Programming
 <div style="display: inline_block">
